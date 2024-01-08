@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nano nano 🖖
 
 <!--
 **Markusyli/Markusyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on cloud (native) development and architectures
+- 🌱 I’m currently learning green computing and Generative AI
+- 🎓 Master's student @ LUT University
