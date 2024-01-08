@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on cloud (native) development and architectures
-- 🌱 I’m currently learning green computing and Generative AI
+- 🔭 Currently working on cloud (native) development and architectures
+- 🌱 Learning green computing and Generative AI
 - 🎓 Master's student @ LUT University
